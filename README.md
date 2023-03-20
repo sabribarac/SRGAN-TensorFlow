@@ -8,8 +8,7 @@ The code is based on the following paper,
 ## Results
 After some epochs this was the result (dataset from **Set 5**):
 
-! [](image_SRF_4/srgan_result.png?raw=true)
-
+![[](/image_SRF_4/srgan_result.png?raw=true)](https://github.com/sabribarac/srgan/blob/3fea85528f9dbeb6c000f44363bafbd52c862192/image_SRF_4/srgan_result.png)
 ## How to use
 
 In a few simple lines you can train the model,
